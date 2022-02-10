@@ -21,7 +21,7 @@ Good luck :)
 
 ## Prerequisites
 
-- Install Node: https://nodejs.org/en/download/current/
+- Install Node v16: https://nodejs.org/en/download/current/
 - Install the vue-cli
   - `npm install -g @vue/cli`
 
